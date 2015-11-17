@@ -1,0 +1,55 @@
+Changes to template
+
+
+Cream City Creative 
+-Complete-
+-Being worked on-
+-Needs to be started or less than 15% done-
+Seth
+Site Map - 
+Proper use of of alt and title attributes - 0%
+Determining and facilitating the use of focused keywords - 
+Plugin setup (need at least 7) - 7/7
+
+
+Contact page - visually there, working on functionality
+All images used for contact page (approved by Matt)
+Make sure the user experience is consistent (approved by Becky)
+Form (built from scratch)
+should validate that all fields have been filled.
+map feature (where company is located)
+must send email with the content to the admin
+
+Becky
+Site-wide UX
+color scheme - Done!
+fonts !
+CSS
+theme customization
+anything else relating to appearance
+Home page
+home page images
+All images for contact page (approved by Matt)
+Keep it consistent with the rest of the site
+Matt
+
+Make sure graphic submissions are consistent
+Header - Done! (modified header.php file to swap out text for our logo image)
+Site Graphics
+favicon
+logo - Done!
+images : Portfolio and products
+Product page -
+Portfolio of at least 4 recent sites we’ve built - 
+Images featuring portfolio items and graphics for our products
+create all images for page
+make sure the UX is consistent (working with Seth)
+
+additional changes needed
+
+page title
+four boxes progress?
+wish list: bigger logo in header
+icons above headers on four boxes
+group image added to About Us page 
+slider text on homepage(Becky)
